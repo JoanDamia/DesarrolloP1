@@ -1,0 +1,13 @@
+﻿  Main.cpp
+  App.cpp
+  Audio.cpp
+  Input.cpp
+  Map.cpp
+  Scene.cpp
+  Render.cpp
+  Textures.cpp
+  Window.cpp
+  Log.cpp
+  pugixml.cpp
+  Generating Code...
+  Game.vcxproj -> C:\Users\Joandr4\Desktop\Base per desenvolupament\DesarrolloP1_DamiaJoan\Build\Debug\Game.exe
